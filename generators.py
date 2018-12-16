@@ -1,7 +1,7 @@
 # This is a warm up exercise on generators
 
-# A simple generator function
-def my_gen():
+
+def gen():
     n = 1
     print('This is printed first')
     # Generator function contains yield statements
@@ -17,7 +17,7 @@ def my_gen():
 
 
 
-a = my_gen()
+a =gen()
 
 next(a)
 next(a)
