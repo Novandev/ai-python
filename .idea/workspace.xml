@@ -1916,7 +1916,6 @@
       <change beforePath="$PROJECT_DIR$/../Web1" beforeDir="false" afterPath="$PROJECT_DIR$/../Web1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Web2/MusiqCorner2" beforeDir="false" afterPath="$PROJECT_DIR$/../Web2/MusiqCorner2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Web2/lodash" beforeDir="false" afterPath="$PROJECT_DIR$/../Web2/lodash" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dockerpract/dockerpract_env/.Python" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../dockerpract/dockerpract_env/bin/activate" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../dockerpract/dockerpract_env/bin/activate.csh" beforeDir="false" />
@@ -23922,22 +23921,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="142" />
+          <entry key="py" value="421" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="142" />
+          <entry key="Python" value="421" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -23965,10 +23964,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter2/agent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <marker date="1545774518703" expanded="true" signature="35:36" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter2/argsAndKwargs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <folding>
+                <marker date="1545779590884" expanded="true" signature="33:131" ph="..." />
               </folding>
             </state>
           </provider>
@@ -23977,8 +23988,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter2/utilities.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+            <state relative-caret-position="277">
+              <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter2/display.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="19" lean-forward="true" selection-end-line="15" selection-end-column="19" />
+              <folding>
+                <marker date="1545777914843" expanded="true" signature="233:238" ph="..." />
+                <marker date="1545777914843" expanded="true" signature="561:562" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -23994,6 +24018,8 @@
         <option value="$PROJECT_DIR$/generators.py" />
         <option value="$PROJECT_DIR$/simpleAiPractice/practice1.py" />
         <option value="$PROJECT_DIR$/chapter2/agent.py" />
+        <option value="$PROJECT_DIR$/chapter2/display.py" />
+        <option value="$PROJECT_DIR$/chapter2/argsAndKwargs.py" />
         <option value="$PROJECT_DIR$/chapter2/utilities.py" />
       </list>
     </option>
@@ -24099,20 +24125,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/argsAndKwargs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <marker date="1545779590884" expanded="true" signature="33:131" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/agent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <marker date="1545774518703" expanded="true" signature="35:36" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/display.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="19" lean-forward="true" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <marker date="1545777914843" expanded="true" signature="233:238" ph="..." />
+            <marker date="1545777914843" expanded="true" signature="561:562" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/utilities.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        <state relative-caret-position="277">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
         </state>
       </provider>
     </entry>
